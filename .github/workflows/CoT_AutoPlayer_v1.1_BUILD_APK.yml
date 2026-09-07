@@ -1,4 +1,4 @@
-name: Build CoT AutoPlayer v1.1 APK
+name: .github/workflows/CoT_AutoPlayer_v1.1_BUILD_APK.yml
 
 on:
   workflow_dispatch:
