@@ -1,4 +1,4 @@
-name: Build CoT AutoPlayer APK
+name: 
 
 on:
   workflow_dispatch:
